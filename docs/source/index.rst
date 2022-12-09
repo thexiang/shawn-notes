@@ -10,7 +10,8 @@ Welcome to Shawn Notes's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   debug/index.rst
+   sample/index.rst
 
 Indices and tables
 ==================

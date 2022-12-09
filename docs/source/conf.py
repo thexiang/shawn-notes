@@ -30,6 +30,7 @@ author = 'Shawn Xu'
 extensions = [
     "sphinx_book_theme",
     "sphinx_copybutton",
+    "sphinx.ext.autosectionlabel",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
