@@ -11,11 +11,10 @@ Welcome to Shawn Notes's documentation!
    :caption: Contents:
 
    debug/index.rst
-   sample/index.rst
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
+* :ref:`genindex` 
 * :ref:`modindex`
 * :ref:`search`
